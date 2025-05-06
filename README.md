@@ -1,6 +1,8 @@
-# Personal Portfolio Website in React
+# 💼 Personal Portfolio Website in React
+This is my personal portfolio website built using React, designed to showcase my skills, projects, education, certification and contact information in a modern, responsive layout.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📸 Preview
+![image]()
 
 
 Built using:
