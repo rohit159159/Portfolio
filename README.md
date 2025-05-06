@@ -1,17 +1,21 @@
 # 💼 Personal Portfolio Website in React
 This is my personal portfolio website built using React, designed to showcase my skills, projects, education, certification and contact information in a modern, responsive layout.
 
-📸 Preview
-![image]()
+🌐 Live Demo
+View Portfolio — (http://rohit-portfolio-in.netlify.app)<br>
+📸 Screenshot
+![image](https://github.com/rohit159159/Portfolio/blob/b2d9ca5da71c3dcae205dab2a65fec5a9230ecda/Screenshot%20portfolio.png)
 
 
-Built using:
+# 🔧 Tech Stack
+| 🛠️ Technology         | 💡 Description                                         |
+|------------------------|--------------------------------------------------------|
+| ⚛️ **React**           | Front-end library for building interactive UIs         |
+| 💠 **React-Bootstrap** | UI framework for responsive design & component styling |
+| 🎞️ **Animate.css**     | Lightweight CSS animation library                      |
+| ⏳ **Custom Loader**    | SVG-based loading animation for better UX             |
+| 🚀 **Netlify**          |One-click continuous deployment with live previews     |
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
-
-In the /personal-portfolio, you can run:
 
 ### `npm start`
 
