@@ -4,14 +4,14 @@ import './Education.css';
 const educationData = [
   {
     institution: 'Technocrats Institute of Technology, Bhopal',
-    years: '2023 - 2026',
+    years: '2022 - 2026',
     degree: 'Computer Science',
     gpa: 'CGPA:7.4',
     color: '#00BFFF', // blue
   },
   {
     institution: 'Yogoda Satsanga Mahavidyalaya, Ranchi',
-    years: '2021 - 2022',
+    years: '2020 - 2022',
     degree: 'Intermediate Education',
     gpa: 'PERCENTAGE: 78.6%',
     color: '#00FF7F', // green
